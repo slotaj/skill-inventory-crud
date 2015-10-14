@@ -5,4 +5,7 @@ class SkillInventoryApp < Sinatra::Base
     erb :index
   end
 
+  get test
+  end
+
 end
